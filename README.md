@@ -1,6 +1,11 @@
 # EELE 465 Project 0
 Git and Markdown practice
 
+## Instructions
+
+1. Follow along with the [slides](https://msu-eele-465.github.io/intro-to-git/)
+2. Do what the `project0_github_markdown.pdf` on Brightspace tells you to do.
+
 ## Resources
 
 ### Markdown
